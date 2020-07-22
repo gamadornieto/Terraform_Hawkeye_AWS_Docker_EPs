@@ -1,0 +1,4 @@
+#Deploy
+terraform apply --var-file="my_vars.tfvars"  --auto-approve
+#Destroy
+terraform destroy --var-file="my_vars.tfvars" --force
