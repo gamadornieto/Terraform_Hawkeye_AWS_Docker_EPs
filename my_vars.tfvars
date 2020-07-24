@@ -10,7 +10,7 @@ key_name = "<YOUR_PRIVATE_KEY_NAME>"
 my_aws_region = "us-east-1"
 
 # AWS credentials
-aws_access_key_id = "ASIA32VCP3Z3YHWYS2LG"
+aws_access_key_id = "<FILL_VALUE>"
 aws_secret_access_key = "<FILL_VALUE>"
 aws_session_token = "<FILL_VALUE>"
 
