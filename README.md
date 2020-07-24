@@ -10,9 +10,9 @@ An already deployed Keysight Hawkeye manager.
 
  Inside this folder initialise Terraform plugins with command
 
- terraform init
+     terraform init
 
- Edit file "my_vars.tfvars" and fill/edit the missing info 
+ Edit file "my_vars.tfvars" and fill/edit the missing info
 
  ## Deploy the infrastructure
 
